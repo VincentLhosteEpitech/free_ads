@@ -8,14 +8,12 @@
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
-        <link href="css/style.css" rel="stylesheet">
-        <style>
-         
-        </style>
+        <link href="css/app.css" rel="stylesheet">
     </head>
     <body class="antialiased">
 
-        @yield('content')
+        @yield('yolo')
+        @yield('testsass')
 
     </body>
 </html>
